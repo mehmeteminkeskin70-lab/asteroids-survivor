@@ -5,8 +5,7 @@ Tarayıcıda çalışan roguelike / bullet hell tarzı uzay oyunu (tek HTML dosy
 ## Nasıl oynanır
 
 - **Yerel:** `index.html` dosyasını çift tıklayıp tarayıcıda açın.
-- **GitHub Pages:** Repo ayarlarından Pages’i etkinleştirip `main` branch / root ile yayınlayın; oyun şu adreste açılır:  
-  `https://<kullanıcı-adı>.github.io/<repo-adı>/`
+- **Canlı (GitHub Pages):** [Oyuna buradan gir](https://mehmeteminkeskin70-lab.github.io/asteroids-survivor/) — İlk yayında 1–2 dakika sürebilir.
 
 ## Kontroller
 
